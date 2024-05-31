@@ -49,4 +49,4 @@ Estudante de Sistemas de Informação com habilidades  em desenvolvimento de alg
 
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=RMD663&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username={RMD663}&theme=blue-green
