@@ -4,20 +4,19 @@
 
 
 ## Sobre mim
-Estudante de Sistemas de Informação com habilidades  em desenvolvimento de algoritmos, jogos e programas com C, C++ & C#. 
-
+Estou sempre aprofundando meus conhecimentos, atualmente estou estudando Rust, Java e reconhecimento de imagem com TensorFlow e YOLOv8 para projetos acadêmicos.
 
 ## Atualmente eu...
 
-👩‍💻 Estou cursando Sistemas de Informação
+👩‍💻 Estou cursando o 4° semestre do curso de Sistemas de Informação
 
-🧠 Estou aprendendo C# & SQL
+🥽 Estudando Reconhecimento de Imagem e Banco de Dados.
 
-👯‍♀️ Procuro criar minha propria game engine
+🖊 Estou desenvolvendo meu próprio jogo na godot
 
-🤔 Procuro ajuda com ponteiros em C++
+🤔 Buscando aprimorar meu conhecimento em Rust
 
-⚡️ Estou desenvolvendo meu próprio jogo!
+⚡️ Estou treinando pixel-art!
 
 ## 🔗 Meus Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanmesquitadamasceno@gmail.com?subject=ryanmesquitadamasceno@gmail.com&body=ryanmesquitadamasceno@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-damasceno-823285288/) [![Zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/BBRYFKR7HDGXJ1)
