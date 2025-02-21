@@ -3,7 +3,7 @@
 
 
 
-## 🚀 Sobre mim
+## Sobre mim
 Estudante de Sistemas de Informação com habilidades  em desenvolvimento de algoritmos, jogos e programas com C, C++ & C#. 
 
 
@@ -42,7 +42,7 @@ Estudante de Sistemas de Informação com habilidades  em desenvolvimento de alg
     
 ## Sistemas operacionais
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
 ## IDE's
 
