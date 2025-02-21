@@ -47,5 +47,3 @@ Estou sempre aprofundando meus conhecimentos, atualmente estou estudando Rust, J
 
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
-![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=RMD663&theme=blue-green) ![STATUS2](https://github-readme-stats.vercel.app/api?username=RMD663&theme=blue-green)
