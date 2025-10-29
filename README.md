@@ -4,19 +4,19 @@
 
 
 ## Sobre mim
-Estou sempre aprofundando meus conhecimentos, atualmente estou estudando Rust, Java e reconhecimento de imagem com TensorFlow e YOLOv8 para projetos acadêmicos.
+Estou sempre aprofundando meus conhecimentos, atualmente estou estudando Python, Rust e sistemas embarcados como arduino e pico para projetos IOT.
 
 ## Atualmente eu...
 
-👩‍💻 Estou cursando o 4° semestre do curso de Sistemas de Informação
+👩‍💻 Estou cursando o 5° semestre do curso de Sistemas de Informação
 
-🥽 Estudando Reconhecimento de Imagem e Banco de Dados.
+🥽 Estudando IOT e sistemas embarcados
 
 🖊 Estou desenvolvendo meu próprio jogo na godot
 
-🤔 Buscando aprimorar meu conhecimento em Rust
+🤔 Buscando aprimorar meu conhecimento em Python
 
-⚡️ Estou treinando pixel-art!
+⚡️ Estou treinando modelagem 3d
 
 ## 🔗 Meus Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanmesquitadamasceno@gmail.com?subject=ryanmesquitadamasceno@gmail.com&body=ryanmesquitadamasceno@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-damasceno-823285288/) [![Zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/BBRYFKR7HDGXJ1)
@@ -37,8 +37,6 @@ Estou sempre aprofundando meus conhecimentos, atualmente estou estudando Rust, J
 ## Meu Setup
 
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Intel](https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
-![AMD](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Intel](https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
     
 ## Sistemas operacionais
