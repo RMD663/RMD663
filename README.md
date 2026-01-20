@@ -9,11 +9,9 @@ Estou sempre aprofundando meus conhecimentos! Atualmente estou estudando **Pytho
 
 ## 🚀 Atualmente eu...
 
-👩‍💻 Cursando o **5° semestre** de **Sistemas de Informação**  
+👩‍💻 Cursando o **6° semestre** de **Sistemas de Informação**  
 🥽 Estudando **IoT** e **sistemas embarcados**  
 🕹 Desenvolvendo meu próprio **jogo na Godot**  
-🐍 Buscando aprimorar meu conhecimento em **Python**  
-⚡️ Treinando **modelagem 3D**
 
 ---
 
