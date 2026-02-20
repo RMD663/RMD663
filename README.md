@@ -3,7 +3,7 @@
 ---
 
 ## Sobre mim  
-Estou sempre aprofundando meus conhecimentos! Atualmente estou estudando **Python**, **Rust** e **sistemas embarcados** como **Arduino** e **Raspberry Pi Pico** para projetos **IoT**.
+Sou um estudante de SI com foco em desenvolvimento de sistemas e jogos. 
 
 ---
 
